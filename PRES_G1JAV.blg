@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: PRES_G1JAV.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apalike.bst
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+Database file #1: biblio.bib
+Warning--I didn't find a database entry for "leal2023"
+You've used 1 entry,
+            1935 wiz_defined-function locations,
+            479 strings with 3896 characters,
+and the built_in function-call counts, 463 in all, are:
+= -- 43
+> -- 23
+< -- 0
++ -- 10
+- -- 8
+* -- 43
+:= -- 85
+add.period$ -- 3
+call.type$ -- 1
+change.case$ -- 9
+chr.to.int$ -- 1
+cite$ -- 1
+duplicate$ -- 14
+empty$ -- 29
+format.name$ -- 9
+if$ -- 84
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 1
+newline$ -- 8
+num.names$ -- 3
+pop$ -- 7
+preamble$ -- 1
+purify$ -- 9
+quote$ -- 0
+skip$ -- 11
+stack$ -- 0
+substring$ -- 33
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 6
+warning$ -- 0
+while$ -- 4
+width$ -- 0
+write$ -- 15
+(There was 1 warning)
